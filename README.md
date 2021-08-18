@@ -1,4 +1,4 @@
-![alt text](https://github.com/HamadaAllipy/news_app_flutter/blob/master/screens_images/screenshot_1.jpg)
+![alt text](https://github.com/HamadaAllipy/news_app_flutter/blob/master/screens_images/screenshot_1.jpg?raw=true)
 ![alt text](https://github.com/HamadaAllipy/news_app_flutter/blob/master/screens_images/screenshot_2.jpg)
 ![alt text](https://github.com/HamadaAllipy/news_app_flutter/blob/master/screens_images/screenshot_3.jpg)
 ![alt text](https://github.com/HamadaAllipy/news_app_flutter/blob/master/screens_images/screenshot_4.jpg)
